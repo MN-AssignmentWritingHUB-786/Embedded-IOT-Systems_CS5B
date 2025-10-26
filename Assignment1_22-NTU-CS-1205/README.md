@@ -63,7 +63,7 @@ It also integrates **buzzer control** for user feedback.
 
 ## Wokwi Simulation
 
-🔗 **[Open Wokwi Project](https://wokwi.com/projects/445755586164651009)**
+🔗 **[Open Wokwi Project](https://wokwi.com/projects/445890491152277505)**
 
 The Wokwi simulation replicates the complete circuit with:
 - 3 LEDs (Red, Green, Yellow)  
